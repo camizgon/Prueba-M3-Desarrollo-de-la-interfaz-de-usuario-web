@@ -1,0 +1,17 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+/* MODELO MANIFIESTO main.scss*/
+
+//abstracts
+//vendors
+//base
+@import "base/reset";
+@import "base/images";
+@import "base/typhography";
+//layout
+//components
+@import "components/buttons";
+@import "components/nav";
+//pages
+@import "pages/index";
+//themes
