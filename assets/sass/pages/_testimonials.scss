@@ -1,0 +1,21 @@
+.container-testimonials-box {
+  display: flex;
+  flex-direction: row;
+  width: 75%;
+  height: 50%;
+}
+
+.container-testimonials-box {
+    display: flex;
+    flex-direction: row;
+    width: 75%;
+    height: 50%;
+  }
+
+.container-testimonials-box__img {
+  display: block;
+  margin-left: 120px;
+  width: 18%;
+  clip-path: circle(40%);
+  object-fit: cover;
+}
